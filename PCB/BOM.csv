@@ -1,0 +1,6 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier","LCSC Price","JLCPCB Price"
+"1","1","220nF","C1","C0201","220nF","GRM033R60J224ME15D","muRata(村田)","C76932","LCSC","","0.0006"
+"2","1","YLED0402B","LED1","LED0402-RD","","YLED0402B","YONGYUTAI(永裕泰)","C30584803","LCSC","","0.0021"
+"3","1","47Ω","R1","R0402","47Ω","FRC0402F47R0TS","FOJAN(富捷)","C2909362","LCSC","","0.0004"
+"4","1","13.56MHz","U1","XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH","13.56MHz","NT3H2111W0FHKH","NXP(恩智浦)","C710403","LCSC","","0.1115"
+"5","1","25X48MM_NFC_ANTENNA","U2","25X48MM_NFC_ANTENNA","","","","","","1.1108",""

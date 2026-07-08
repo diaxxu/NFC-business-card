@@ -1,0 +1,6 @@
+﻿"Designator","Device","Footprint","Mid X","Mid Y","Ref X","Ref Y","Pad X","Pad Y","Pins","Layer","Rotation","SMD","Comment","Name"
+"C1","GRM033R60J224ME15D","C0201","68.072mm","49.784mm","68.072mm","49.784mm","68.072mm","50.058mm","2","T","270","Yes","220nF","220nF"
+"LED1","YLED0402B","LED0402-RD","66.592mm","48.558mm","66.592mm","48.558mm","66.592mm","48.983mm","2","T","270","Yes","YLED0402B","YLED0402B"
+"R1","FRC0402F47R0TS","R0402","68.834mm","47.244mm","68.834mm","47.244mm","68.401mm","47.244mm","2","T","0","Yes","47Ω","47Ω"
+"U1","NT3H2111W0FHKH","XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH","69.723mm","49.022mm","69.723mm","49.022mm","70.223mm","49.672mm","8","T","180","Yes","13.56MHz","13.56MHz"
+"U2","25X48MM_NFC_ANTENNA","25X48MM_NFC_ANTENNA","76.708mm","49.657mm","88.138mm","49.657mm","74.803mm","49.022mm","2","T","90","No","25X48MM_NFC_ANTENNA","25X48MM_NFC_ANTENNA"

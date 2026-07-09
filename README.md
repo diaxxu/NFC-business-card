@@ -22,4 +22,8 @@ its a pcb business card that i can give to friends etc it look cool and has my s
 
 
 # JLC 
-
+## tried to pick the cheapest on everything i even switched multiple component because i couldn't find their basic part 
+![Alt text](ASSETS/bom.png)
+![Alt text](ASSETS/ptotal.png)
+![Alt text](ASSETS/ship.png)
+![Alt text](ASSETS/total.png)
